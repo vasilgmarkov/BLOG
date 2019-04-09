@@ -50,7 +50,7 @@ public class BlogController {
         post.setTitle(title);
         post.setBody(body);
         post.setCreationDate(new Date());
-        post.setCreator(userService.getUser(userDetails.getUsername()));
+       // post.setCreator(userService.getUser(userDetails.getUsername()));
         postService.insertPost(post);
 
        return "Post was published!";

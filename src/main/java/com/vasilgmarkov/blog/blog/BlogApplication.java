@@ -40,10 +40,10 @@ public class BlogApplication {
 
 	@Autowired
 	public void authenticationManager(AuthenticationManagerBuilder builder, UserRepository userRepository) throws Exception{
-		if(userRepository.count() == 0){
-			userRepository.save(new User("user",passwordEncoder.encode("user"), Arrays.asList(new Role("USER"), new Role("ACTUATOR"))));
-			userRepository.save(new User("usertwo",passwordEncoder.encode("user"), Arrays.asList(new Role("USER"), new Role("ACTUATOR"))));
-		}
+//		if(userRepository.count() == 0){
+//			userRepository.save(new User("user",passwordEncoder.encode("user"), Arrays.asList(new Role("USER"), new Role("ACTUATOR"))));
+//			userRepository.save(new User("usertwo",passwordEncoder.encode("user"), Arrays.asList(new Role("USER"), new Role("ACTUATOR"))));
+//		}
 		builder.userDetailsService(username -> new CustomUserDetails(userRepository.findByUsername(username)));
 	}
 

@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b93b968c-9ba4-4640-9571-654be1405905" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vasilgmarkov/blog/blog/config/ResourceServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vasilgmarkov/blog/blog/config/ResourceServerConfig.java" afterDir="false" />
-    </list>
+    <list default="true" id="b93b968c-9ba4-4640-9571-654be1405905" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -98,7 +95,7 @@
         <counts>
           <entry key="gradle" value="9" />
           <entry key="html" value="34" />
-          <entry key="java" value="4497" />
+          <entry key="java" value="4499" />
           <entry key="properties" value="65" />
         </counts>
       </usages-collector>
@@ -106,7 +103,7 @@
         <counts>
           <entry key="Groovy" value="9" />
           <entry key="HTML" value="34" />
-          <entry key="JAVA" value="4497" />
+          <entry key="JAVA" value="4499" />
           <entry key="Properties" value="65" />
         </counts>
       </usages-collector>
@@ -114,11 +111,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/vasilgmarkov/blog/blog/controllers/BlogController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="982">
-              <caret line="83" column="43" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
+            <state relative-caret-position="447">
+              <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,7 +147,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/vasilgmarkov/blog/blog/config/ResourceServerConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -695,11 +692,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/vasilgmarkov/blog/blog/service/PostService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vasilgmarkov/blog/blog/entities/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vasilgmarkov/blog/blog/entities/Post.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/vasilgmarkov/blog/blog/controllers/BlogController.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/vasilgmarkov/blog/blog/config/StaticResourceProvider.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vasilgmarkov/blog/blog/config/ResourceServerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vasilgmarkov/blog/blog/controllers/BlogController.java" />
       </list>
     </option>
   </component>
@@ -1363,16 +1360,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vasilgmarkov/blog/blog/controllers/BlogController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="982">
-          <caret line="83" column="43" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vasilgmarkov/blog/blog/config/WebSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1404,6 +1391,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vasilgmarkov/blog/blog/controllers/BlogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

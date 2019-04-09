@@ -44,7 +44,7 @@ public class BlogController {
                 .path("/images/")
                 .path(fileName)
                 .toUriString();
-        CustomUserDetails userDetails = (CustomUserDetails) SecurityContextHolder.getContext().getAuthentication().getPrincipal();
+        //CustomUserDetails userDetails = (CustomUserDetails) SecurityContextHolder.getContext().getAuthentication().getPrincipal();
         Post post = new Post();
         post.setImage("/images/"+fileName);
         post.setTitle(title);

@@ -95,7 +95,7 @@
         <counts>
           <entry key="gradle" value="9" />
           <entry key="html" value="34" />
-          <entry key="java" value="4499" />
+          <entry key="java" value="4501" />
           <entry key="properties" value="65" />
         </counts>
       </usages-collector>
@@ -103,7 +103,7 @@
         <counts>
           <entry key="Groovy" value="9" />
           <entry key="HTML" value="34" />
-          <entry key="JAVA" value="4499" />
+          <entry key="JAVA" value="4501" />
           <entry key="Properties" value="65" />
         </counts>
       </usages-collector>
@@ -114,8 +114,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/vasilgmarkov/blog/blog/controllers/BlogController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+            <state relative-caret-position="357">
+              <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1399,8 +1399,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vasilgmarkov/blog/blog/controllers/BlogController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        <state relative-caret-position="357">
+          <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
